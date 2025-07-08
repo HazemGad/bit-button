@@ -15,9 +15,6 @@ function Button({ label, type = "button", color = "primary", link, onClick }) {
     </button>
   );
 }
-function Clickme(){
-navigator("https://www.google.com/");
-}
 
 
 export default Button;
